@@ -1,4 +1,4 @@
-# Screamfuck
+# ÁáâaAãàÀ (-aA-)
 
 An esoteric language based off of Brainfuck... well, it's pretty much just Brainfuck remapped. But it's so much better now!
 
