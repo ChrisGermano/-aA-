@@ -13,10 +13,16 @@ I didn't make these, I just threw them in so you can see the output. It's licens
 
 ## Examples
 
+
 "Hello World!"
+
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+
 AAAAAAAAAAÁàAAAAAAAàAAAAAAAAAAàAAAàAááááaÀàAAâàAâAAAAAAAââAAAâàAAâááAAAAAAAAAAAAAAAâàâAAAâaaaaaaâaaaaaaaaâàAâàâ
 
+
 Sierpinski Triangle
+
 ++++++++[>+>++++<<-]>++>>+<[-[>>+<<-]+>>]>+[-<<<[->[+[-]+>++>>>-<<]<[<]>>++++++[<<+++++>>-]+<<++.[-]<<]>.>+[>>]>+]
+
 AAAAAAAAÁàAàAAAAááaÀàAAààAáÁaÁààAááaÀAààÀàAÁaáááÁaàÁAÁaÀAàAAàààaááÀáÁáÀààAAAAAAÁááAAAAAààaÀAááAAâÁaÀááÀàâàAÁààÀàAÀ
