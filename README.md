@@ -5,6 +5,7 @@ An esoteric language based off of Brainfuck... well, it's pretty much just Brain
 ## Usage
 
 python3 screaming.py [X.scream] => creates [X.bf] in the same directory as [X.scream]
+
 python3 screamback.py [X.bf] => creates [X.scream] in the same directory as [X.bf]
 
 ### interpreter.py & getch.py
